@@ -1,2 +1,2 @@
 # Snake-Game
-a simple snake gaming using turtle and random modules
+a simple snake gaming using 'turtle' and 'random' modules
